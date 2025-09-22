@@ -1,14 +1,12 @@
 # Hello, I'm Aditya
 <a href="https://linkedin.com//in/adityarl/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am a resourceful and adaptable individual with strong analytical and problem-solving abilities, paired with a determined mindset to overcome challenges. I value reliability and am deeply committed to protecting organizations, people, and data. My interest in learning how hacks work and how to defend against them drives me to support cybersecurity efforts that strengthen defenses and safeguard critical information.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -23,7 +21,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
