@@ -1,10 +1,8 @@
-# Hello, I'm Aditya
+# Aditya Rajkhowa Lama
 <a href="https://linkedin.com//in/adityarl/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
-## Objective
+## Professional Statement
 
 I am a resourceful and adaptable individual with strong analytical and problem-solving abilities, paired with a determined mindset to overcome challenges. I value reliability and am deeply committed to protecting organizations, people, and data. My interest in learning how hacks work and how to defend against them drives me to support cybersecurity efforts that strengthen defenses and safeguard critical information.
 
