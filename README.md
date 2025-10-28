@@ -2,7 +2,7 @@
 <a href="https://linkedin.com//in/adityarl/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-## Professional Statement
+## Summary
 
 I am a resourceful and adaptable individual with strong analytical and problem-solving abilities, paired with a determined mindset to overcome challenges. I value reliability and am deeply committed to protecting organizations, people, and data. My interest in learning how hacks work and how to defend against them drives me to support cybersecurity efforts that strengthen defenses and safeguard critical information.
 
@@ -41,14 +41,14 @@ I am a resourceful and adaptable individual with strong analytical and problem-s
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
+
+
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+
 
 ## Projects
 - Detection Lab
