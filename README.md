@@ -5,7 +5,7 @@
 
 ## Summary
 
-I am a resourceful and adaptable individual with strong analytical and problem-solving abilities, paired with a determined mindset to overcome challenges. I value reliability and am deeply committed to protecting organizations, people, and data. My interest in learning how hacks work and how to defend against them drives me to support cybersecurity efforts that strengthen defenses and safeguard critical information.
+IT Technician | Cybersecurity Analyst | 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
