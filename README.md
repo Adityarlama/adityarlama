@@ -5,7 +5,7 @@
 
 ## Summary
 
-IT Technician | Cybersecurity Analyst | 
+IT Technician | Cybersecurity Analyst | Google Cybersecurity Professional Certified
 
 ## Projects
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
