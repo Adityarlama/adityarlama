@@ -8,11 +8,10 @@
 IT Technician | Cybersecurity Analyst | Google Cybersecurity Professional Certified
 
 ## Projects
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Project                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Honeypot in MS Asuze and SIEM (MS Sentinel) Implementation           | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -55,6 +54,21 @@ IT Technician | Cybersecurity Analyst | Google Cybersecurity Professional Certif
 ## Projects
 - Detection Lab
 - SOC Automation Project
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="AdityaRLama | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="AdityaRLama | Substack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/substack.svg" />][substack]
+[<img align="left" alt="AdityaRLama | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AdityaRLama | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[substack]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/@adityarlama
+[instagram]: https://www.instagram.com/adityarl/
+[linkedin]: https://linkedin.com/in/adityarl
+
+
+
 
 <!--
 **Adityarlama/adityarlama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
