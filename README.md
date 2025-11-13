@@ -7,7 +7,7 @@
 
 IT Technician | Cybersecurity Analyst | 
 
-## Skills
+## Projects
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
