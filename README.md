@@ -21,16 +21,30 @@ IT Technician | Cybersecurity Analyst | Google Cybersecurity Professional Certif
 
 ## Projects
 
-| Project                                        | Associated Project         |
+| Project                                        | Skills gained        |
 |-----------------------------------------------|----------------------------|
-| Honeypot in MS Asuze and SIEM (MS Sentinel) Implementation           | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Honeypot in MS Asuze and SIEM (MS Sentinel) Implementation           |                                                |
+
 
 ## Tools
+
+### Security & Monitoring:
+Splunk, Wazuh, Microsoft Defender, Qualys, Nessus
+
+### Endpoint Management:
+Intune, Jamf, Group Policy, AD/Entra ID
+
+### Identity & Access:
+Azure AD, MFA, Conditional Access, Okta (if you learn it)
+
+### Governance & Standards:
+NIST CSF, NIST 800-53, OWASP, CIS Benchmarks
+
+### Scripting & Automation:
+PowerShell, Bash, Python security scripts
+
+### Cloud Security:
+Azure/AWS basics (IAM, NSG, logging, encryption, monitoring)
 
 ### Network
 <div>
