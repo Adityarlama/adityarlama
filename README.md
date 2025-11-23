@@ -39,7 +39,8 @@ Description: Led a full usability and reliability improvement initiative for the
 ---
 
 
-### Upcoming Projects!
+## Upcoming Projects!
+
 SOC Home Lab , Vulnerability Management Pipeline, Endpoint & OS Hardening, Cloud Security Mini-Lab 
 
 ---
