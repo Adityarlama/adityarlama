@@ -28,7 +28,6 @@ Description: A decoy network used to trap and analyze/study malicious attack tra
 
 ➡️ *[View Project](https://github.com/Adityarlama/honeynet)*
 
----
 
 ### 🗒️ 2. Weissberg Auditorium AV System Overhaul 
 
