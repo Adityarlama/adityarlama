@@ -32,7 +32,8 @@ Description: A decoy network used to trap and analyze/study malicious attack tra
 ### 🗒️ 2. Weissberg Auditorium AV System Overhaul 
 
 **Beloit Powerhouse — Independent Project**  
-**Project Deliverable:** [AV System Instructional Guide (2 pages)](https://imgur.com/gallery/weissberg-auditorium-instructional-sheets-u9Afqkr)
+**Project Deliverable:** [AV System Instructional Guide (2 pages)](https://imgur.com/gallery/weissberg-auditorium-instructional-sheets-u9Afqkr) | [**GitHub Link**](https://github.com/Adityarlama/WeissbergAuditorium)
+ 
 
 Description: Led a full usability and reliability improvement initiative for the Weissberg Auditorium’s audiovisual system at the request of the Student Union Director. The auditorium had long-standing issues with controls, cabling, audio clarity, and equipment accessibility, impacting both student and administrative events.
 
