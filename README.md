@@ -1,10 +1,10 @@
 # <h1 align="center">Hi 👋, I'm Aditya Lama</h1>
 
-### <h2 align="center"> IT & Cybersecurity | B.S. Computer Science | Security Operations | Endpoint Security </h2>
+### <h2 align="center"> IT Professional with 4 years of experience | B.Sc. Computer Science | Pivoting to Cybersecurity </h2>
 
 <h3 align="center">Welcome to my Github page!   </h3>
 
-I'm a Cybersecurity professional with close to 4 years of hands-on IT experience across endpoint management, identity and access, AV systems, ticket triaging, escalation, vulnerability management, secure enterprise operations, and other technical experience that I can use to build secure, reliable and user-focused IT environments
+I'm an IT professional with close to 4 years of hands-on IT experience across endpoint management, identity and access, AV systems, ticket triaging, escalation, vulnerability management, secure enterprise operations, and other technical experience that I can use to build secure, reliable and user-focused IT environments
 
 My interests sit at the intersection of:
 **Security Operations • Threat Detection • Vulnerability Management • Cloud Security • IAM • Hardening & Automation • Governance, Risk & Compliance • Recovery Playbooks**
