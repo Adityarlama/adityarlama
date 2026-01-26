@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFAA00&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello!+👋;I'm+Aditya+R+Lama!;Welcome+to+my+Github!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00FF00&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello+there!+👋;I'm+Aditya+R+Lama!;" />
 
 
 ### <h2 align="center"> IT Professional with 4 years of experience | B.Sc. Computer Science </br> Pivoting to Cybersecurity </h2>
@@ -18,9 +18,7 @@
 
 I'm an IT professional with close to 4 years of hands-on IT experience across endpoint management, identity and access, AV systems, ticket triaging, escalation, vulnerability management, secure enterprise operations, and other technical experience that I can use to build secure, reliable and user-focused IT environments
 
-My interests sit at the intersection of:
-**Security Operations • Threat Detection • Vulnerability Management • Cloud Security • IAM • Hardening & Automation • Governance, Risk & Compliance • Recovery Playbooks**
-
+I'm pivoting to Cybersecurity, so here's my portfolio of projects! Thanks for taking a look
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
