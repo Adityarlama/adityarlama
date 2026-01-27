@@ -4,7 +4,7 @@
 
 ### <h2 align="center"> IT Professional with 4 years of experience | B.Sc. Computer Science </br> Pivoting to Cybersecurity </h2>
 
-
+<!--
 
 <div align="center">
   <picture>
@@ -13,12 +13,13 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+-->
 
 <h3 align="center">Welcome to my Github page!   </h3>
 
-I'm an IT professional with close to 4 years of hands-on IT experience across endpoint management, identity and access, AV systems, ticket triaging, escalation, vulnerability management, secure enterprise operations, and other technical experience that I can use to build secure, reliable and user-focused IT environments
+I'm an IT professional with close to 4 years of hands-on IT experience across endpoint management, identity and access, AV systems, ticket triaging, escalation, vulnerability management, secure enterprise operations, and other technical experience that I can use to build secure, reliable and user-focused IT environments.
 
-I'm pivoting to Cybersecurity, so here's my portfolio of projects! Thanks for taking a look
+I'm pivoting to Cybersecurity, so here's my portfolio of projects! Thanks for taking a look :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,11 +33,10 @@ I'm pivoting to Cybersecurity, so here's my portfolio of projects! Thanks for ta
 ## Featured Projects
 
 ### 🐝🕸 1. Honeynet + SIEM Detection Lab  
-**Skills:** MS Azure, MS Sentinel SIEM, Log Analytics, KQL
+**Skills:** MS Azure, MS Sentinel SIEM, Log Analytics, KQL <br>
+**Project Documentation:** [GitHub Link](https://github.com/Adityarlama/honeynet)
 
-Description: A decoy network used to trap and analyze/study malicious attack traffic. On Microsoft Azure, I set up a Virtual Machine and a Virtual Network in an isolated resource group (sandbox) and then ran Win 10
-
-➡️ *[View Project](https://github.com/Adityarlama/honeynet)*
+Description: A decoy network used to trap and analyze/study malicious attack traffic. On Microsoft Azure, I set up a Virtual Machine and a Virtual Network in an isolated resource group (sandbox) and then ran Win 10 on that VM. Turned off all the firewalls, and exposed the machine to the internet. Then logged hundreds of thousands of unsuccessful connection attempts from all around the world. 
 
 
 ### 🗒️ 2. Weissberg Auditorium AV System Overhaul 
@@ -45,7 +45,7 @@ Description: A decoy network used to trap and analyze/study malicious attack tra
 **Project Deliverable:** [AV System Instructional Guide (2 pages)](https://imgur.com/gallery/weissberg-auditorium-instructional-sheets-u9Afqkr) | [**GitHub Link**](https://github.com/Adityarlama/WeissbergAuditorium)
 
 
-Description: Led a full usability and reliability improvement initiative for the Weissberg Auditorium’s audiovisual system at the request of the Student Union Director. The auditorium had long-standing issues with controls, cabling, audio clarity, and equipment accessibility, impacting both student and administrative events.
+Description: Spearheaded the usability overhaul of Weissberg Auditorium’s AV system, resolving long-standing functionality issues at the request of the student union director at Beloit Powerhouse. Reorganized and optimized AV hardware layout, implementing cable management, equipment labeling, and seamless integration of Crestron controls systems. Authored a comprehensive two-page AV System User Guide and contributed it to campus IT knowledge base, improving accessibility and reducing support requests by 90%.
 
 ### 3 SQL Projects
 
