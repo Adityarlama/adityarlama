@@ -68,7 +68,7 @@ SOC Home Lab , Vulnerability Management Pipeline, Endpoint & OS Hardening, Cloud
 ## ⚙️ Skills & Technologies
 
 ### Security & Monitoring
-Splunk • Microsoft Sentinel • Wazuh • Suricata • Sysmon • Defender for Endpoint (EDR) • MITRE ATT&CK • OWASP Top 10 • CVSS Scoring • Log Analysis • Network Traffic Analysis (Wireshark, tcpdump) • JSON Workflows • AI-assisted Log Collection, Parsing & Enrichment
+Splunk • Microsoft Sentinel • Wazuh • Suricata • Microsoft Defender for Endpoint (EDR) • MITRE ATT&CK • OWASP Top 10 • Log Analysis • Network Traffic Analysis (Wireshark, tcpdump) • JSON Workflows • AI-assisted Log Collection, Parsing & Enrichment
 
 ### Vulnerability & Risk Management
 Nessus • OpenVAS • Qualys (familiar) • Vulnerability Assessment & Remediation • Patch Management • Risk Prioritization • Security Hardening • Firewall/NSG Configuration
@@ -78,7 +78,7 @@ Azure AD / Entra ID • MFA & Conditional Access • Group Policy • SSO Concep
 NIST CSF • NIST 800-37 • NIST 800-53 • NIST 800-61 • NIST 800-40 • CIS Controls • Basic ISO 27001 exposure • PCI-DSS • GDPR • HIPAA • Internal Security Audit • Core Security Principles (CIA Triad, Least Privilege, Defense-in-Depth)
 
 ### Endpoint, Systems & Infrastructure
-Windows 10/11 • macOS • Linux (CLI, Ubuntu/CentOS) • Intune • Jamf • Secure Deployment • Endpoint Configuration • Imaging • Device Hardening • Virtualization Fundamentals • System Integration (Crestron, Zoom Rooms, Webex)
+Windows 10/11 • macOS • Linux (CLI, Ubuntu) • Intune • Jamf • Secure Deployment • Endpoint Configuration • Imaging • Device Hardening • System Integration (Crestron, Zoom Rooms, Webex)
 
 ### Cloud, Automation & Scripting
 Azure • AWS (Basics) • Python • PowerShell • Bash • JavaScript • HTML/CSS • SQL • Docker (intro) • REST APIs • Git/GitHub • Flask/FastAPI (familiar) • Configuration Management • CIS Benchmarks
@@ -98,7 +98,7 @@ Technical Documentation • Knowledge Base Development • User Guide Creation �
 ---
 
 ## 🧑‍💻 About Me  
-- 3.5+ years in IT & Security within enterprise and higher-ed environments  
+- 4+ years in IT & Security within enterprise and higher-ed environments  
 - Strong communication & documentation background  
 - Enjoy breaking down technical concepts for non-technical users  
 - Focused on building solid security engineering fundamentals  
