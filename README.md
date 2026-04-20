@@ -4,7 +4,7 @@
 
 ### <h2 align="center"> IT Professional with 4 years of experience | B.Sc. Computer Science </br> Pivoting to Cybersecurity </h2>
 
-<!--
+
 
 <div align="center">
   <picture>
@@ -13,7 +13,7 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
--->
+
 
 <h3 align="center">Welcome to my Github page!   </h3>
 
