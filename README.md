@@ -88,7 +88,7 @@ Technical Documentation • Knowledge Base Development • User Guide Creation �
 
 ---
 
-## 📜 Certifications (Active & In-Progress)  
+## Certifications (Active & In-Progress)  
 - Google Cybersecurity Professional
 - CompTIA Security+ (in progress)
 - Cisco Certified Network Associate CCNA // CompTIA Network+ (in progress)
@@ -97,7 +97,7 @@ Technical Documentation • Knowledge Base Development • User Guide Creation �
 
 ---
 
-## 🧑‍💻 About Me  
+## About Me  
 - 4+ years in IT & Security within enterprise and higher-ed environments  
 - Strong communication & documentation background  
 - Enjoy breaking down technical concepts for non-technical users  
@@ -106,7 +106,6 @@ Technical Documentation • Knowledge Base Development • User Guide Creation �
 
 ---
 
-## 📫 Connect With Me  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adityarl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aditya R Lama" height="30" width="40" /></a>
